@@ -20,5 +20,6 @@ class Solution {
         return new int[]{-1, -1};
     }
 }
+//先好好毕业，再冲一波LC
 // @lc code=end
 
